@@ -11,4 +11,4 @@ class AuthenticationSuccess extends AuthenticationState {}
 
 class AuthenticationFailure extends AuthenticationState {}
 
-class AuthenticationProgress extends AuthenticationState {}
+class AuthenticationInProgress extends AuthenticationState {}

@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f82587cd-10e3-46a5-8873-c1f249d585a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/user_repository/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/authentication/authentication_bloc.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/authentication/authentication_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/authentication/authentication_state.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib/authentication" />
       <recent name="$PROJECT_DIR$/user_repository/lib/src" />
     </key>
   </component>
@@ -54,9 +54,9 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1593610296787">
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser" timestamp="1593613656402">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1593610296787" />
+    <state x="653" y="259" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1593613656402" />
   </component>
 </project>
